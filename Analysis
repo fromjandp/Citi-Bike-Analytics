@@ -1,0 +1,18 @@
+Analysis
+1. The data shows top popular bike stations grouped in a closer proximity except one station. This station is
+   the 'Sip Ave' station. While this could appear to be an outlier, the data shows that most of the rides, 
+   from there, end at the VERY popular Grove St Path bike Station.
+   
+   I tried to take a look at the actual map of the Citi Bike Stations and found that 'Sip Ave' might actually be part of
+   a separate group of bike stations and this station might be the connection between that group and the group of popular    locations shown in this analysis.
+   
+2. The data shows that while both males and females ride the bikes, the males are the majority of the riders.
+
+3. The data shows that the subscriber base is much lower than that of the non-subscriber customer base. 
+   The subscriber base looks to have a pike riding time of 8a and 6p which could be related to traveling 
+   to work by bike around 8a and travel back  around 6p. More information would be needed here.
+   
+   The non-subscriber customer base looks to ride more consistently throughout the day and have the bike longer. Could 
+   be touring or running errands. More information is needed here.
+   
+   
